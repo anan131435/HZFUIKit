@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'HZFUIKit_Example' do
+  pod 'HZFUIKit', :path => '../'
+
+  target 'HZFUIKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
