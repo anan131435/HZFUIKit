@@ -1,0 +1,6 @@
+framework module HZFUIKit {
+  umbrella header "HZFUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

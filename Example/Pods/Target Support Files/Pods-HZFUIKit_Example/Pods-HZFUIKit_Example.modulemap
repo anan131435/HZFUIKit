@@ -1,0 +1,6 @@
+framework module Pods_HZFUIKit_Example {
+  umbrella header "Pods-HZFUIKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
